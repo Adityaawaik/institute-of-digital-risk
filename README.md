@@ -3,8 +3,7 @@
 A responsive web application designed to present information about the **Institute of Digital Risk**, including its mission, programs, and digital risk management initiatives.  
 The project focuses on creating a **modern, responsive, and user-friendly interface** for an educational or organizational website.
 
-<a href='https://adityaawaik.github.io/institute-of-digital-risk/'> Check Here </a>
-
+#<a href='https://adityaawaik.github.io/institute-of-digital-risk/'> Check Here </a>
 ---
 
 ## 📖 Overview
